@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://multi-agent-coding-assistant-3v65.onrender.com"
+API_URL = "https://multi-agent-coding-assistant-3v65.onrender.com/chat"
 
 st.set_page_config(
     page_title="AI Coding Assistant",
